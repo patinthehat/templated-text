@@ -1,6 +1,7 @@
 
 test.php
 *.log
+vendor/
 
 # Created by https://www.gitignore.io/api/eclipse,php,linux
 
